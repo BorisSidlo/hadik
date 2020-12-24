@@ -27,7 +27,7 @@ ctx.stroke();
 //loop
 
 function gameLoop(){
-    
+
 ctx.fillStyle='white';
 ctx.fillRect(0,0,canvas.width,canvas.height); // size of ctverec 
 
